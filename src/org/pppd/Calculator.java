@@ -14,6 +14,8 @@ addition();
 subraction();
 College.studentId();
 College.collegCode();
+College.collegCode();
+College.collegCode();
 College.numOfStudents();
 	
 }
