@@ -19,6 +19,8 @@ College.collegCode();
 College.numOfStudents();
 System.out.println("Good job");	
 System.out.println("Divya");
+System.out.println("Java");
+System.out.println("selenium");
 
 }
 	
